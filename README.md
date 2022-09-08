@@ -1,4 +1,4 @@
-# GEOS 505: Research computing in the Earth and Environmental Sciences
+# GEOS 505: Research Computing in the Earth and Environmental Sciences
 
 ## Olayemi Adeyemi
 
